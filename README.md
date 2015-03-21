@@ -1,4 +1,4 @@
-# Blameless Configuration System for Unity Games
+# Configuration System for Unity Games
 
 This asset adds an easy to use configuration system for Unity games that support keeping player settings in external files.
 
