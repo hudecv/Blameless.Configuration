@@ -1,6 +1,6 @@
 # Configuration System for Unity Games
 
-This asset adds an easy to use configuration system for Unity games that support keeping player settings in external files.
+This asset adds an easy to use configuration system for Unity games that require keeping player settings in external files.
 
 It is solely written in C#, but can naturally be used by UnityScript or Boo scripts too.
 
