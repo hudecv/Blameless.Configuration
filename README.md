@@ -12,7 +12,7 @@ Created by Vaclav Hudec for [Blameless](http://blamelessgame.com)
 
 The Blameless Configuration system is targeted to users who want a quick and easy solution to add Settings features in their game. It comes from my own requirement to set the public fields on components from an external file which holds the player's configuration.
 
-![Blameless Configuration](screenshots/Screenshots/sheme.png "Blameless Configuration")
+![Blameless Configuration](../screenshots/Screenshots/sheme.png "Blameless Configuration")
 
 ###### The problem:
 
@@ -69,8 +69,8 @@ Attach `BindingSet` component to your desired game object and add an array of `B
 
 Binding objects come with a custom property drawer, so setting them up is as easy as selecting from dropdowns:
 
-![Setup a binding object](screenshots/Screenshots/settingsSystem_1.jpg "Setup a binding object")
-![Setup a binding object](screenshots/Screenshots/settingsSystem_2.jpg "Setup a binding object")
+![Setup a binding object](../screenshots/Screenshots/settingsSystem_1.jpg "Setup a binding object")
+![Setup a binding object](../screenshots/Screenshots/settingsSystem_2.jpg "Setup a binding object")
 
 To take full advantage of the binding for an in-game settings menu:
 
